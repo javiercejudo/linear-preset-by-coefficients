@@ -17,7 +17,7 @@ var Decimal = require('linear-arbitrary-precision')(require('floating-adapter'))
 var preset = require('linear-preset-by-coefficients')(Decimal);
 
 // all numbers are Decimal
-preset(temp, 9/5, 32);  // => [[0, 1], [32, 33.8]]
+preset(9/5, 32);  // => [[0, 1], [32, 33.8]]
 ```
 
 ## Related projects
