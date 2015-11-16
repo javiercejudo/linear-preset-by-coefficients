@@ -1,6 +1,6 @@
 {
   "name": "linear-preset-by-coefficients",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate linear presets from coefficients",
   "main": "src/index.js",
   "scripts": {
