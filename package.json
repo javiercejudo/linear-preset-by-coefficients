@@ -26,7 +26,7 @@
     "gulp-coveralls": "^0.1.4",
     "gulp-istanbul": "^0.10.2",
     "gulp-mocha": "^2.1.3",
-    "linear-arbitrary-precision": "^3.1.0",
+    "linear-arbitrary-precision": "^4.0.2",
     "lodash.isfunction": "^3.0.6",
     "rimraf": "^2.4.3",
     "should": "^8.0.0"
